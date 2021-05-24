@@ -32,7 +32,7 @@ variable "attributes" {
 
 variable "managedby" {
   type        = string
-  default     = "anmol@clouddrove.com"
+  default     = "mtp-devops@checkpoint.com"
   description = "ManagedBy, eg 'CloudDrove' or 'AnmolNagpal'."
 }
 
